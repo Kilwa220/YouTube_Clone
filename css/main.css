@@ -1001,6 +1001,9 @@
 */
         
         @media (hover) {
+            .card-hover {
+                display: block
+            }
             .user-body>a:hover,
             .options-notifications a:hover,
             .youtube-types a:hover,
